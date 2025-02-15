@@ -43,12 +43,12 @@ Para iniciar o servidor e o cliente, siga os passos abaixo:
 1. Inicie o servidor:
    ```bash
    cd server
-   npm start
+   npm run start
    ```
 2. Inicie o cliente:
    ```bash
    cd ../client
-   npm start
+   npm run build
    ```
 
 O aplicativo estará disponível em `http://localhost:3000`.
