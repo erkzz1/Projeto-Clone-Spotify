@@ -1,0 +1,21 @@
+{
+  "name": "projetoclonespotify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix Back-end && npm install --prefix Front-end && npm run build --prefix Front-end",
+    "start": "npm run start --prefix Back-end"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erkzz1/Projeto-Clone-Spotify.git"
+  },
+  "keywords": [],
+  "author": "Erick Silva <erickmathias.contato@gmail.com> (erkzz1)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erkzz1/Projeto-Clone-Spotify/issues"
+  },
+  "homepage": "https://github.com/erkzz1/Projeto-Clone-Spotify#readme",
+  "description": ""
+}
